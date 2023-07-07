@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #f4f4ec;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+div {
+    padding-left: 20px;
+}
+li {
+    padding: 5px;
+}
+.title {
+    padding-left: 20px;
+    text-align: center;
+}
+.food {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 70px;
+}

@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #f4f4ec;
+    font-family:Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+div.header {
+    background-color: #92b662;
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.title {
+    padding-top: 20px;
+    margin-left: 30px
+}
+li, a{
+    padding: 5px;
+    color: black;
+}
